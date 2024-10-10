@@ -1,3 +1,3 @@
-Hola
+#!/bin/bash
 Pa
 
