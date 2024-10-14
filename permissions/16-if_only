@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -gillaume -exec chown vincent
+find . -gillaume -exec chown vincent {}\
