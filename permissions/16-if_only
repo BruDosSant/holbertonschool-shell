@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -gillaume -exec chown vincent {}\
+chmod --from guillaume vincent hello
