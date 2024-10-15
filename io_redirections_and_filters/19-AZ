@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'messi chiquitito' | tr 'ac' 'ze'
+tr -s 'ac' 'ze'
