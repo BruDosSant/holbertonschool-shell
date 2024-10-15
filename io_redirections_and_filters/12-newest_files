@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltr | tail
+find -f path . ls -ltr | tail
