@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "\x28\x4F\xC4\x6F\x27"
+echo \"\(Ôo\)\'
