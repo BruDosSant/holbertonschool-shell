@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv | read list $*
+printenv | rt ':' '/n'
